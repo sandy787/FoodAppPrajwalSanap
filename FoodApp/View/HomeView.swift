@@ -58,7 +58,7 @@ struct HomeView: View {
                                 .cornerRadius(8)
                             }
                             Spacer()
-                            Image(systemName: "photo")
+                            Image("shwarma")
                                 .frame(width: 80, height: 80)
                                 .background(Color.blue.opacity(0.3))
                                 .cornerRadius(40)
